@@ -12,6 +12,9 @@
 # webstorm
 .idea
 
+# env
+.env
+
 # misc
 .DS_Store
 .env.local
