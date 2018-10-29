@@ -4,6 +4,7 @@ class Metronome extends Component {
   render() {
     return (
       <div>
+        H1
       </div>
     );
   }
